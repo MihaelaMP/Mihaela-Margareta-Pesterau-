@@ -18,4 +18,5 @@ Cosa trovi qui:
 - [`ecommerce-powerbi-analysis`](https://github.com/MihaelaMP/ecommerce-powerbi-analysis) — Analisi supply chain e-commerce con star schema e DAX
 - [`analisi-disoccupazione-genitori`](https://github.com/MihaelaMP/analisi-disoccupazione-genitori) — Analisi disoccupazione per genere con dati ISTAT (Python)
 - 
-  *" LinkedIn **
+  **LinkedIn **
+  www.linkedin.com/in/margareta-mihaela-pesterau-computer-engineer
