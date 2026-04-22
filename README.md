@@ -1,7 +1,7 @@
 # Mihaela-Margareta-Pesterau-
 Ciao, sono Mihaela 👋
 
-Ingegnere informatico (Sapienza, 2012), ora Data Analyst in costruzione del portfolio.
+Ingegnere informatico (La Sapienza, 2012), ora Data Analyst in costruzione del portfolio.
 Dopo anni dedicati alla famiglia, sto rientrando nel mondo del lavoro con un percorso focalizzato su dati, strumenti e storie che contano.
 
 Cosa trovi qui:
